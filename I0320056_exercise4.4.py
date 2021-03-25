@@ -1,6 +1,6 @@
 # strings
-str1 = "Vicka"
-str2 = "Sarry"
+str1 = "Hello"
+str2 = "World"
 
 # concat
 result = str1 + " " + str2
