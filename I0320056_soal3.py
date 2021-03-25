@@ -11,10 +11,10 @@ print("\nBerat maksimum untuk 1 orang pernumpang adalah",b,"Kg")
 print("berat bagasi c:",c)
 print("berat bagasi d:",d)
 print('----------------------------------------------------')
-# output: c > b is True
-print('c > b:',c > b)
-# output: d < b is False
-print('d < b:',d < b)
+# output: c > b is False
+print('c <= b:',c <= b)
+# output: d > b is False
+print('d <= b:',d <= b)
 print('----------------------------------------------------')
 print("Berat bagasi Anda melebihi batas maksimum")
 print("Silahkan mengurangi barang bawaan Anda atau membayar biaya tambahan")
